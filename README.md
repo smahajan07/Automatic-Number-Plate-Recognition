@@ -21,7 +21,7 @@ Process:
 
 Usage:
 
-Sample data is provided in 'data' folder. Change fine name and run file named 'run.sh' from terminal. 
+Make a folder 'testing' and 'testing/Numbers'. Every time you run, output will be saved here (Also, delete output if running code again). Sample data is provided in 'data' folder. Change file name in code and run file named 'run.sh' from terminal. 
 
 TODO:
 1. Better classifier for number plates. (More data and better machine required)
